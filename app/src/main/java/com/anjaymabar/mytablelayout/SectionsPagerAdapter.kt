@@ -1,4 +1,4 @@
-package com.example.mytablayout
+package com.anjaymabar.mytablelayout
 
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
